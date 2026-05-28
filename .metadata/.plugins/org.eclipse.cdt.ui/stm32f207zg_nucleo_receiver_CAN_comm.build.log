@@ -1,0 +1,10 @@
+12:43:55 **** Incremental Build of configuration Debug for project stm32f207zg_nucleo_receiver_CAN_comm ****
+make -j24 all 
+arm-none-eabi-size  stm32f207zg_nucleo_receiver_CAN_comm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18884	     92	   3476	  22452	   57b4	stm32f207zg_nucleo_receiver_CAN_comm.elf
+Finished building: default.size.stdout
+ 
+
+12:43:55 Build Finished. 0 errors, 0 warnings. (took 73ms)
+

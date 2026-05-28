@@ -1,0 +1,10 @@
+12:43:55 **** Incremental Build of configuration Debug for project stm32f407_discovery_transmitter_CAN_comm ****
+make -j24 all 
+arm-none-eabi-size  stm32f407_discovery_transmitter_CAN_comm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  43376	    136	   4240	  47752	   ba88	stm32f407_discovery_transmitter_CAN_comm.elf
+Finished building: default.size.stdout
+ 
+
+12:43:55 Build Finished. 0 errors, 0 warnings. (took 73ms)
+

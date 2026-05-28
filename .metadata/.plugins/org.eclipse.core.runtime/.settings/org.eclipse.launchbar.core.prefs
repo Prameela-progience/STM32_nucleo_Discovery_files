@@ -1,0 +1,17 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_comm_discovery Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F207_as_aTransmiter_CAN2_comm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407_as _a Receiver_CAN2_comm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:NUCLEO-CAN_TEST Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART2_test_discovery Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART3_PRINT Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:f207_nucleo_as_transmitter_CAN1_comm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f207zg_nucleo_receiver_CAN_comm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f407_discovery_transmitter_CAN_comm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tmp_sensor Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sensor_f407_as_a receiver_CAN1_comm Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sensor_f207_as_a transmiter_CAN1_cmm Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_comm_discovery\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_comm_discovery\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F207_as_aTransmiter_CAN2_comm\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407_as\ _a\ Receiver_CAN2_comm\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:NUCLEO-CAN_TEST\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:NUCLEO-CAN_TEST\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sensor_f207_as_a\ transmiter_CAN1_cmm\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Sensor_f407_as_a\ receiver_CAN1_comm\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART3_PRINT\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f207zg_nucleo_receiver_CAN_comm\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f407_discovery_transmitter_CAN_comm\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:tmp_sensor\ Debug/activeLaunchMode=debug

@@ -1,0 +1,10 @@
+12:43:54 **** Incremental Build of configuration Debug for project Sensor_f407_as_a receiver_CAN1_comm ****
+make -j24 all 
+arm-none-eabi-size  Sensor_f407_as_a\ receiver_CAN1_comm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  38892	    124	   4164	  43180	   a8ac	Sensor_f407_as_a receiver_CAN1_comm.elf
+Finished building: default.size.stdout
+ 
+
+12:43:54 Build Finished. 0 errors, 0 warnings. (took 73ms)
+

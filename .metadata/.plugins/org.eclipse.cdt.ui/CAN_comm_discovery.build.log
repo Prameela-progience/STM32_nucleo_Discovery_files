@@ -1,0 +1,10 @@
+12:43:54 **** Incremental Build of configuration Debug for project CAN_comm_discovery ****
+make -j24 all 
+arm-none-eabi-size  CAN_comm_discovery.elf 
+   text	   data	    bss	    dec	    hex	filename
+  45196	    136	   4280	  49612	   c1cc	CAN_comm_discovery.elf
+Finished building: default.size.stdout
+ 
+
+12:43:54 Build Finished. 0 errors, 0 warnings. (took 76ms)
+

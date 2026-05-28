@@ -1,0 +1,10 @@
+12:44:11 **** Incremental Build of configuration Debug for project Sensor_f207_as_a transmiter_CAN1_cmm ****
+make -j24 all 
+arm-none-eabi-size  Sensor_f207_as_a\ transmiter_CAN1_cmm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32176	    468	   3356	  36000	   8ca0	Sensor_f207_as_a transmiter_CAN1_cmm.elf
+Finished building: default.size.stdout
+ 
+
+12:44:11 Build Finished. 0 errors, 0 warnings. (took 75ms)
+

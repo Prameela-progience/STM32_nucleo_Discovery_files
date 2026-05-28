@@ -1,0 +1,10 @@
+12:43:55 **** Incremental Build of configuration Debug for project UART2_test_discovery ****
+make -j24 all 
+arm-none-eabi-size  UART2_test_discovery.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40192	    136	   4200	  44528	   adf0	UART2_test_discovery.elf
+Finished building: default.size.stdout
+ 
+
+12:43:55 Build Finished. 0 errors, 0 warnings. (took 75ms)
+

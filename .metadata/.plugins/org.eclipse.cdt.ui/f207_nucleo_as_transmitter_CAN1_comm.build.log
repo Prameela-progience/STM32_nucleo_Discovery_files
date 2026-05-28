@@ -1,0 +1,10 @@
+12:43:55 **** Incremental Build of configuration Debug for project f207_nucleo_as_transmitter_CAN1_comm ****
+make -j24 all 
+arm-none-eabi-size  f207_nucleo_as_transmitter_CAN1_comm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12124	     12	   2924	  15060	   3ad4	f207_nucleo_as_transmitter_CAN1_comm.elf
+Finished building: default.size.stdout
+ 
+
+12:43:55 Build Finished. 0 errors, 0 warnings. (took 77ms)
+

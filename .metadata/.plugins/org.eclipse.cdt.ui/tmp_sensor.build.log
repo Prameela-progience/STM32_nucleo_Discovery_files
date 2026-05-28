@@ -1,0 +1,10 @@
+12:43:55 **** Incremental Build of configuration Debug for project tmp_sensor ****
+make -j24 all 
+arm-none-eabi-size  tmp_sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10128	     12	   1668	  11808	   2e20	tmp_sensor.elf
+Finished building: default.size.stdout
+ 
+
+12:43:55 Build Finished. 0 errors, 0 warnings. (took 74ms)
+
